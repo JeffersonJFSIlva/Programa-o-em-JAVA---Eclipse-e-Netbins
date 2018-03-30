@@ -1,5 +1,6 @@
 # Programacao-JAVA-Eclipse
   public class Agenda {
+  
 	private Contato contato[];
 	private int qtContato = 0;
 	private int capacidade=100;
